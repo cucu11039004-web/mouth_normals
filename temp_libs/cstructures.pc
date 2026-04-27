@@ -1,0 +1,6 @@
+libdir=/usr/lib
+includedir=/usr/include
+Name: cstructures
+Versioin: 0.1Description: c structures 
+Libs: -L${libdir} -lcstructures -lcstruct_iterator
+Cflags: -I${includedir}
