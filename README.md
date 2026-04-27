@@ -1,0 +1,2 @@
+# mouth_normals
+利用D435深度相机和mediapipe来实时估计人口腔的位姿并可视化
